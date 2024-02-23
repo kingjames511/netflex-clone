@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/netflex-clone/static/css/main.0a008a0e.css",
+    "main.js": "/netflex-clone/static/js/main.e51a8097.js",
+    "index.html": "/netflex-clone/index.html",
+    "main.0a008a0e.css.map": "/netflex-clone/static/css/main.0a008a0e.css.map",
+    "main.e51a8097.js.map": "/netflex-clone/static/js/main.e51a8097.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a008a0e.css",
+    "static/js/main.e51a8097.js"
+  ]
+}
